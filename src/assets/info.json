@@ -1,0 +1,35 @@
+{   
+    "nombre":"Ignacio",
+    "apellido":"Nazar",
+    "rol":"Full Stack Dev",
+    "habilidades" :{ 
+        "back": {"nombre":"BACK-END","skills":["Spring", "Java","Nest","TypeScript","C++"]},
+		"bd":{"nombre":"BASE DE DATOS","skills":["MySql","Mongodb","PostgreSql","Oracle","Sql"]},
+        "front":{"nombre":"FRONT-END","skills": ["React", "JavaScript","Bootstrap","Tailwind","Redux"]}
+    },
+    "sobreMi":"Soy un desarrollador Full Stack con experiencia en el desarrollo de aplicaciones web. Mi enfoque está en crear soluciones eficientes y funcionales, trabajando en entornos colaborativos y ágiles. Estoy comprometido con la mejora continua y la entrega de productos de calidad. Mi pasión por la tecnología me impulsa a enfrentar nuevos desafíos y a buscar soluciones innovadoras.",
+    "experienciaProfesional":[{
+        "rol":"Full Stack Engineer",
+        "lugar":"Ministerio de Educacion de la Nacion",
+        "horario":"Full Time",
+        "fechaInicio":"Mar 2023",
+        "fechaFin":"Presente",
+        "lugarGeografico":"Santa Fe, Argentina",
+        "modalidad":"On-Site",
+        "info":["Actualmente trabajo en SIPAU (sistema de pagos unificado), un sistema interno del estado. Trabajo migrando codigo a nuevas versiones, desarrollando funcionalidades como pasarela de pago, features, generacion de pdfs y excels.",
+            "Colaboro en MI ESCUELA (aplicacion web destinada al uso de estudiantes, padres y personal escolar).",
+        "Colaboro en el proyecto de TITULOS, un sistema en donde se puede ver un historial de los estudiantes, solicitar el titulo y que se genere en formato pdf."],
+        "skills":[
+            "Java",
+            "Spring Boot",
+            "Javascript",
+            "React",
+            "Bootstrap",
+            "Oracle SQL Developer",
+            "JasperReport",
+            "Linux",
+            "Gitlab",
+            "SQL"
+        ]
+    }]
+}

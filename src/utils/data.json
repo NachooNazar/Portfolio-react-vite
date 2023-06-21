@@ -1,0 +1,70 @@
+{
+    "nombre":"Ignacio",
+    "apellido":"Nazar",
+    "nombreCompleto":"Ignacio Nazar",
+    "rol":"Software Developer",
+    "preferencia":"Back-end",
+    "tecnologias":[
+        {
+            "nombre":"Java",
+            "img":"",
+            "docUrl":""
+        },
+        {
+            "nombre":"Spring",
+            "img":"",
+            "docUrl":""
+        },
+        {
+            "nombre":"JavaScript",
+            "img":"",
+            "docUrl":""
+        },
+        {
+            "nombre":"React",
+            "img":"",
+            "docUrl":""
+        },
+        {
+            "nombre":"Boostrap",
+            "img":"",
+            "docUrl":""
+        },
+        {
+            "nombre":"Git",
+            "img":"",
+            "docUrl":""
+        },
+        {
+            "nombre":"Sql",
+            "img":"",
+            "docUrl":""
+        }
+    ],
+    "experiencia":[
+        {
+            "empresa":"Ministerio de Educacion",
+            "fechaInicio":"03/2023",
+            "fechaFin":"presente",
+            "descripcion":"",
+            "rol":"Full Stack Developer",
+            "tecnologias":[]
+        }
+    ],
+    "estudios":[
+        {
+            "titulo":"Full Stack Developer",
+            "fechaInicio":"03/2022",
+            "fechaFin":"07/2022",
+            "ciudad":"Remoto",
+            "institucion":"soyHenry"
+        },
+        {
+            "titulo":"Tecnico en Tecnologias de la Informacion",
+            "fechaInicio":"06/2023",
+            "fechaFin":"presente",
+            "ciudad":"Santa Fe",
+            "institucion":"Universidad Tecnologica Nacional"
+        }
+    ]
+}
