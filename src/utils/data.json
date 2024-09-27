@@ -44,27 +44,36 @@
     "experiencia":[
         {
             "empresa":"Ministerio de Educacion",
-            "fechaInicio":"03/2023",
-            "fechaFin":"presente",
+            "fechaInicio":"01/2023",
+            "fechaFin":"12/2023",
             "descripcion":"",
+            "rol":"Full Stack Developer",
+            "tecnologias":[]
+        },
+                {
+            "empresa":"EuropeaSolar",
+            "fechaInicio":"09/2023",
+            "fechaFin":"12/2023",
+            "descripcion":"Remoto",
+            "rol":"Full Stack Developer",
+            "tecnologias":[]
+        },
+                {
+            "empresa":"Aythen",
+            "fechaInicio":"12/2023",
+            "fechaFin":"03/2024",
+            "descripcion":"Remoto",
             "rol":"Full Stack Developer",
             "tecnologias":[]
         }
     ],
     "estudios":[
         {
-            "titulo":"Full Stack Developer",
-            "fechaInicio":"03/2022",
-            "fechaFin":"07/2022",
-            "ciudad":"Remoto",
-            "institucion":"soyHenry"
-        },
-        {
-            "titulo":"Tecnico en Tecnologias de la Informacion",
-            "fechaInicio":"06/2023",
+            "titulo":"Tecnico en Procesamiento y Explotacion de Datos",
+            "fechaInicio":"02/2024",
             "fechaFin":"presente",
-            "ciudad":"Santa Fe",
-            "institucion":"Universidad Tecnologica Nacional"
+            "ciudad":"Oro Verde",
+            "institucion":"Universidad Nacional de Entre Rios"
         }
     ]
 }
