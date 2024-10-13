@@ -1,24 +1,22 @@
 {   
     "nombre":"Ignacio",
     "apellido":"Nazar",
-    "rol":"Full Stack Dev",
+    "rol":"Back end Dev & Data Engineer",
     "habilidades" :{ 
-        "back": {"nombre":"BACK-END","skills":["Spring", "Java","Nest","TypeScript","C++"]},
+        "back": {"nombre":"BACK-END","skills":["Spring", "Java","Nest","TypeScript","Python"]},
 		"bd":{"nombre":"BASE DE DATOS","skills":["MySql","Mongodb","PostgreSql","Oracle","Sql"]},
         "front":{"nombre":"FRONT-END","skills": ["React", "JavaScript","Bootstrap","Tailwind","Redux"]}
     },
-    "sobreMi":"Soy un desarrollador Full Stack con experiencia en el desarrollo de aplicaciones web. Mi enfoque está en crear soluciones eficientes y funcionales, trabajando en entornos colaborativos y ágiles. Estoy comprometido con la mejora continua y la entrega de productos de calidad. Mi pasión por la tecnología me impulsa a enfrentar nuevos desafíos y a buscar soluciones innovadoras.",
+    "sobreMi":"SSoy una persona que aprende rápido y colabora, actualmente me encuentro estudiando una carrera en Big Data. Busco aprender y superarme día a día. Me gusta trabajar como backend o data, me encanta el mundo de los datos, trabajar con ellos y poder tomar decisiones en base a la información obtenida.",
     "experienciaProfesional":[{
         "rol":"Full Stack Engineer",
         "lugar":"Ministerio de Educacion de la Nacion",
         "horario":"Full Time",
-        "fechaInicio":"Mar 2023",
-        "fechaFin":"Presente",
+        "fechaInicio":"Enero 2023",
+        "fechaFin":"Diciembre 2023",
         "lugarGeografico":"Santa Fe, Argentina",
         "modalidad":"On-Site",
-        "info":["Actualmente trabajo en SIPAU (sistema de pagos unificado), un sistema interno del estado. Trabajo migrando codigo a nuevas versiones, desarrollando funcionalidades como pasarela de pago, features, generacion de pdfs y excels.",
-            "Colaboro en MI ESCUELA (aplicacion web destinada al uso de estudiantes, padres y personal escolar).",
-        "Colaboro en el proyecto de TITULOS, un sistema en donde se puede ver un historial de los estudiantes, solicitar el titulo y que se genere en formato pdf."],
+        "info":["Desarrolle parte de un sistema de pagos (SIPAU)","Implemente y optimice reportes dinamicos utilizando JasperReports","Desarrollé módulos necesarios para el correcto uso de apps internas.","Colabore en los Proyectos TITULOS y MiEscuela."],
         "skills":[
             "Java",
             "Spring Boot",
@@ -31,5 +29,27 @@
             "Gitlab",
             "SQL"
         ]
-    }]
+    },{
+        "rol":"Full Stack Engineer",
+        "lugar":"Aythen",
+        "horario":"Full Time",
+        "fechaInicio":"Diciembre 2023",
+        "fechaFin":"Marzo 2024",
+        "lugarGeografico":"Remoto - España",
+        "modalidad":"Remoto",
+        "info":["Desarrollé una micro app no-code estilo drag and drop con funcionalidades para crear páginas web.","Mejoré la experiencia de usuario al optimizar tiempos de carga."],
+        "skills":[
+            "Java",
+            "Spring Boot",
+            "Javascript",
+            "React",
+            "Bootstrap",
+            "Oracle SQL Developer",
+            "JasperReport",
+            "Linux",
+            "Gitlab",
+            "SQL"
+        ]
+    }
+    ]
 }
