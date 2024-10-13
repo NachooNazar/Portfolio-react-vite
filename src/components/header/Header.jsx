@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import cv from "../../assets/Ignacio Nazar - Full Stack.pdf"
+import cv from "../../assets/Ignacio Nazar - Desarrollador.pdf"
 const Header = ({info}) => {
 	return (
 		<section id="header" className="text-white h-screen bg-black text-center flex justify-center items-center font-karla">
