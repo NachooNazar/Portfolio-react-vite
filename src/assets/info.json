@@ -39,16 +39,9 @@
         "modalidad":"Remoto",
         "info":["Desarrollé una micro app no-code estilo drag and drop con funcionalidades para crear páginas web.","Mejoré la experiencia de usuario al optimizar tiempos de carga."],
         "skills":[
-            "Java",
-            "Spring Boot",
-            "Javascript",
-            "React",
-            "Bootstrap",
-            "Oracle SQL Developer",
-            "JasperReport",
-            "Linux",
-            "Gitlab",
-            "SQL"
+            "Next",
+            "Express",
+            "Mongo"
         ]
     }
     ]
